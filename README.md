@@ -1,2 +1,1 @@
-# us-zip-codes-dataset
-list of us postal codes as of april 2021
+Updates upon request. Does not include zip+4 code. Other data formats uppon request.
